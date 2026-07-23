@@ -10,8 +10,6 @@ Open-source tools I've built around NetBird. Pins are reserved for everything el
 
 **Windows & GPO deployment**
 - [netbird-gpo-deployment](https://github.com/SunsetDrifter/netbird-gpo-deployment) — Deploy NetBird to Windows domain clients via Group Policy: managed policy (ADMX/registry) plus silent MSI install.
-- [netbird-windows-lockdown-mode](https://github.com/SunsetDrifter/netbird-windows-lockdown-mode) — GPO scripts to lock down NetBird on Windows domain clients.
-- [netbird-everyday-scripts](https://github.com/SunsetDrifter/netbird-everyday-scripts) — Handy PowerShell scripts for day-to-day NetBird administration.
 
 **Dashboards & UIs**
 - [netbird-grafana](https://github.com/SunsetDrifter/netbird-grafana) — Unified Grafana dashboard for NetBird self-hosted (community edition), built for IT admins who need an at-a-glance view.
