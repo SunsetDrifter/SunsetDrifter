@@ -8,7 +8,7 @@ I also love building prototypes for new features.
 
 Open-source tools I've built around NetBird. Pins are reserved for everything else.
 
-**Maintained at netbirdio**
+**Maintained at NetBird.io**
 - [netbirdio/docs](https://github.com/netbirdio/docs) — Official NetBird documentation.
 - [netbirdio/ansible-netbird](https://github.com/netbirdio/ansible-netbird) — Ansible role for deploying and managing NetBird.
 
