@@ -6,7 +6,7 @@ I also love building prototypes for new features.
 
 ## NetBird projects
 
-Open-source tools I've built around NetBird. Pins are reserved for everything else.
+Open source tools I've built around NetBird. Pins are reserved for everything else.
 
 **Maintained at NetBird.io**
 - [netbirdio/docs](https://github.com/netbirdio/docs) — Official NetBird documentation.
