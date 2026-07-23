@@ -8,7 +8,9 @@ I also love building prototypes for new features.
 
 Open-source tools I've built around NetBird. Pins are reserved for everything else.
 
-I also help maintain the official [netbirdio/docs](https://github.com/netbirdio/docs) and [netbirdio/ansible-netbird](https://github.com/netbirdio/ansible-netbird).
+**Maintained at netbirdio**
+- [netbirdio/docs](https://github.com/netbirdio/docs) — Official NetBird documentation.
+- [netbirdio/ansible-netbird](https://github.com/netbirdio/ansible-netbird) — Ansible role for deploying and managing NetBird.
 
 **Windows & GPO deployment**
 - [netbird-gpo-deployment](https://github.com/SunsetDrifter/netbird-gpo-deployment) — Deploy NetBird to Windows domain clients via Group Policy: managed policy (ADMX/registry) plus silent MSI install.
